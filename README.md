@@ -12,8 +12,9 @@ Zadanie 3
 
 Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/tree/main/Zadanie3)
 
+Zadanie 4
 
-
+Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/blob/main/Zadanie4/075Ensemble_Exercises.ipynb)
 
 
 
