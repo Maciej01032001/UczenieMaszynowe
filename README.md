@@ -20,3 +20,6 @@ Zadanie 5
 
 Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/blob/main/Zadanie5/065_SVM_Exercises.ipynb)
 
+Zadanie 6
+
+Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/blob/main/Zadanie6/106_NLP_Exercises.ipynb)
