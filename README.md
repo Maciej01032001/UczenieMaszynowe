@@ -16,5 +16,7 @@ Zadanie 4
 
 Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/blob/main/Zadanie4/075Ensemble_Exercises.ipynb)
 
+Zadanie 5
 
+Kod: [link](https://github.com/Maciej01032001/UczenieMaszynowe2024/blob/main/Zadanie5/065_SVM_Exercises.ipynb)
 
